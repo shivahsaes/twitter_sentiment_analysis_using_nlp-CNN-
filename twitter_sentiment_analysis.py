@@ -226,7 +226,7 @@ print(Loading the Analysis ##################.......)
 print(analysis)
 if analysis > 0.5:
   print("Postive")
-elif analysis=0.5:
+elif analysis==0.5:
   print("Neutral")
 else:
   print("Negative")
